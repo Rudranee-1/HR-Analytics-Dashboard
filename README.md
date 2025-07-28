@@ -98,10 +98,12 @@ Avg Age = AVERAGE(Employee[Age])
 | Age Group Stability | 35–45 yrs | High attrition at 26–35  |
 | Tenure Stability    | > 3 yrs   | Avg 7.01 yrs             |
 
+---
+
 ### Dashboard Preview
 
-![HR Analytics Dashboard](HR Analytics Dashboard.jpg)
+![HR Analytics Dashboard](https://github.com/Rudranee-1/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.jpg) 
 
 
-![Dashboard](https://github.com/Rudranee-1/HR-Analytics-Dashboard/tree/main)
+
 
