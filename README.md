@@ -100,7 +100,8 @@ Avg Age = AVERAGE(Employee[Age])
 
 ### Dashboard Preview
 
-![HR Analytics Dashboard](https://github.com/Rudranee-1/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.pdf)
+![HR Analytics Dashboard](HR Analytics Dashboard.jpg)
+
 
 ![Dashboard](https://github.com/Rudranee-1/HR-Analytics-Dashboard/tree/main)
 
